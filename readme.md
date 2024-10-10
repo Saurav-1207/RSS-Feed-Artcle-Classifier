@@ -1,6 +1,6 @@
-![alt text]([https://github.com/Saurav-1207/Swiggy-Pizza-Order-Automation/blob/a1bbce4314e5b29103fedd29f264cdd938b148e0/Capture.PNG](https://github.com/Saurav-1207/RSS-Feed-Artcle-Classifier/blob/087e9985bc0a0b98a627f4c20cf715038766f1a3/rss.PNG))
+![alt text](https://github.com/Saurav-1207/RSS-Feed-Artcle-Classifier/blob/087e9985bc0a0b98a627f4c20cf715038766f1a3/rss.PNG)
 
-![alt text]([https://github.com/Saurav-1207/Swiggy-Pizza-Order-Automation/blob/a1bbce4314e5b29103fedd29f264cdd938b148e0/Capture.PNG](https://github.com/Saurav-1207/RSS-Feed-Artcle-Classifier/blob/087e9985bc0a0b98a627f4c20cf715038766f1a3/classify.PNG))
+![alt text](https://github.com/Saurav-1207/RSS-Feed-Artcle-Classifier/blob/087e9985bc0a0b98a627f4c20cf715038766f1a3/classify.PNG)
 
 # RSS Feed News Article Classification with Celery and NLP
 
